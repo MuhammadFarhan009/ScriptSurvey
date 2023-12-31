@@ -1,6 +1,6 @@
 # Project Title
 
-Script untuk isi survey USK btw servey siap kuliah ni ya
+Script untuk isi survey USK btw survey siap kuliah ni ya
 
 ## Description
 
