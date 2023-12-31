@@ -16,4 +16,5 @@ You need to install selenium
 
 ## Usage
 
-Explain how to use the project. Include code snippets if necessary.
+You just need to input NIM and Password
+then just follow the flow from this script
