@@ -7,6 +7,8 @@ Script untuk isi survey
 Sebuah script untuk mahasiswa yang malas mengisi survey
 
 ## Installation
+pre-requisite
+- Install python
 
 You need to install selenium
 
